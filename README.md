@@ -1,5 +1,12 @@
-### C++ Linked-List Search Engine
+# C++ Linked-List Search Engine
 
+### Console application for searching words from files
+- Developed with C++
+- Linked lists from data structures are used
+
+
+
+**Description**
 - It reads 400.000 words from 4 different file(pdf,html,docx,txt) words put on double-linked-lists sorted by the number of letter. While it's searching it looks lenght of the word and find the true list and find the word. If it can't find the exact word, it uses levensthein distance algorithm and find the common words.
 
 
